@@ -1,4 +1,4 @@
-# TerminalChatBot
+# TerminalChatApp
 This repository contains the source code for a terminal-based chat application written in Python. The chat application allows two users to connect and chat in real-time over a network connection.
 
 To get started, clone the repository and run the server script on one machine. This will start the chat server and allow other users to connect. Then, run the client script on another machine and enter the IP address of the machine running the server. You can then start chatting with other users who have connected to the chat server.
